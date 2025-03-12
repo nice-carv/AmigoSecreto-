@@ -1,5 +1,3 @@
-<<<<<<< HEAD
- 
 # Amigo Secreto
 
 ![Imagem de Capa](assets/amigo-secreto.png)
@@ -36,21 +34,19 @@ git clone https://github.com/seu-usuario/amigo-secreto.git
 cd amigo-secreto
 Abra o arquivo index.htmlem seu navegador para visualizar o aplicativo.
 
-## Tecnologias Utilizadas
+
+Tecnologias Utilizadas
 HTML5
 CSS3
 JavaScript
 
-## Pessoa Desenvolvedora
+
+Pessoa Desenvolvedora
 Nice Carvalho
 
-## Conclusão
+Conclusão
 O projeto Amigo Secreto foi desenvolvido para facilitar a realização de sorteios de amigo secreto, oferecendo uma interface intuitiva e funcionalidades essenciais. O arquivo.js tem comentários para facilitar sua compreensão e lógica aplicada. 
 O sistema sorteia nomes de forma aleatória, removendo os nomes sorteados para evitar repetições, e informa quando todos os nomes já foram sorteados. 
 Sinta-se à vontade para contribuir, sugerindo melhorias ou expandindo funcionalidades.
 
 
-=======
- Repositório : https://github.com/nice-carv/AmigoSecreto-.git
- 
->>>>>>> bb8ff563ac4849bdfd930f7213d46f111c88bbf0
