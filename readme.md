@@ -12,7 +12,7 @@ Github Pages: https://nice-carv.github.io/AmigoSecreto-/
 - [Funcionalidades](#funcionalidades)
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pessoa Desenvolvedora](#pessoa-desenvolvedor-do-projeto)
+- [Pessoa Desenvolvedora](#pessoa-desenvolvedora)
 - [Conclusão](#conclusão)
 
 ## Descrição do Projeto
@@ -27,7 +27,7 @@ Concluído
 - **Sorteio Aleatório:** Realiza o sorteio de um nome aleatoriamente e remove o nome sorteado da lista.
 - **Finalização:** Quando todos os nomes forem sorteados, um alerta informa que todos os nomes já foram sorteados.
 
-##Acesso ao Projeto
+## Acesso ao Projeto
 Você pode acessar o projeto clonando este repositório:
 ```bash
 git clone https://github.com/seu-usuario/amigo-secreto.git
@@ -45,8 +45,4 @@ Pessoa Desenvolvedora
 Nice Carvalho
 
 Conclusão
-Conclusão
-O projeto Amigo Secreto foi desenvolvido para facilitar a realização de sorteios de amigo secreto, oferecendo uma interface intuitiva e funcionalidades essenciais. O arquivo.js tem comentários para facilitar sua compreensão e lógica aplicada. 
-O sistema sorteia nomes de forma aleatória, removendo os nomes sorteados para evitar repetições, e informa quando todos os nomes já foram sorteados. 
-Sinta-se à vontade para contribuir, sugerindo melhorias ou expandindo funcionalidades.
-
+O projeto Amigo Secreto foi desenvolvido para facilitar a realização de sorteios de amigo secreto, oferecendo uma interface intuitiva e funcionalidades essenciais. O arquivo.js tem comentários para facilitar sua compreensão e lógica aplicada. O sistema sorteia nomes de forma aleatória, removendo os nomes sorteados para evitar repetições, e informa quando todos os nomes já foram sorteados. Sinta-se à vontade para contribuir, sugerindo melhorias ou expandindo funcionalidades.
