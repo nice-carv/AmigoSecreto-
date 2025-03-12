@@ -1,5 +1,3 @@
-<<<<<<< HEAD
- 
 # Amigo Secreto
 
 ![Imagem de Capa](assets/amigo-secreto.png)
@@ -41,7 +39,7 @@ HTML5
 CSS3
 JavaScript
 
-## Pessoa Desenvolvedora
+Pessoa Desenvolvedora
 Nice Carvalho
 
 ## Conclusão
