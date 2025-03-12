@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Amigo Secreto
 
@@ -49,3 +50,7 @@ O sistema sorteia nomes de forma aleatória, removendo os nomes sorteados para e
 Sinta-se à vontade para contribuir, sugerindo melhorias ou expandindo funcionalidades.
 
 
+=======
+ Repositório : https://github.com/nice-carv/AmigoSecreto-.git
+ 
+>>>>>>> bb8ff563ac4849bdfd930f7213d46f111c88bbf0
