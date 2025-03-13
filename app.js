@@ -51,7 +51,7 @@ function sortearAmigo() {
   atualizarListaAmigos(); //atualiza lista de amigos após o sorteio
   
   if(amigos.length===0) {
-    alert ("Todos os nomes foram sorteados"); // quando do array amigos estiver vazio exibe alert
+    alert ("Todos os nomes foram sorteados, atualize a página para iniciar novo sorteio"); // quando do array amigos estiver vazio exibe alert
   }
 }
 
