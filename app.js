@@ -37,9 +37,9 @@ function adicionarAmigo() {
 // Função 3 - Sortear um amigo aleatoriamente
 function sortearAmigo() {
   if (amigos.length === 0) {
-    alert("Não há nomes para sortear!");
-    return;  //se o tamanho da lista for exatamente = a zero, retornará alert na tela
-  }  
+    alert ("Todos os nomes foram sorteados, atualize a página para iniciar novo sorteio"); 
+    return; // quando do array amigos estiver vazio exibe alert
+  }  //se o tamanho da lista for exatamente === a zero, retornará alert na tela
 
   let indiceAleatório = Math.floor(Math.random() * amigos.length);   // Função Matematica Math - seleciona um índice aleatório e multiplica dentro do array amigos com base no seu tamanho sorteia aleatoriamente.
   let amigoSorteado = amigos[indiceAleatório]
@@ -49,9 +49,5 @@ function sortearAmigo() {
 
   amigos.splice(indiceAleatório, 1); // remove elemento do array
   atualizarListaAmigos(); //atualiza lista de amigos após o sorteio
-  
-  if(amigos.length===0) {
-    alert ("Todos os nomes foram sorteados, atualize a página para iniciar novo sorteio"); // quando do array amigos estiver vazio exibe alert
-  }
 }
 
